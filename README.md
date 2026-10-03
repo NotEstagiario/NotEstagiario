@@ -1,42 +1,6 @@
-<table>
-<tr>
-<td valign="top">
-
-<pre>
-██╗    ██╗ █████╗
-██║    ██║██╔══██╗
-██║ █╗ ██║███████║
-██║███╗██║██╔══██║
-╚███╔███╔╝██║  ██║
- ╚══╝╚══╝ ╚═╝  ╚═╝
-
-   W I L L I A M
- A L E X A N D R E
-</pre>
-
-</td>
-<td valign="top">
-
-<pre>
-william@NotEstagiario
-────────────────────────────────────────────────────────
-Role       Software Developer | Game Developer
-Location   Embu das Artes, SP — Brazil
-Education  Systems Analysis & Development — 2026
-Focus      Game Development · Software Systems · Backend
-
-Languages  C# · C++ · Java · Python
-Game Dev   Unity · Gameplay Systems · RPG · Balancing
-Backend    Client-Server · Server-Authoritative · Persistence
-Database   MySQL · MariaDB
-Java/Game  Paper · NeoForge · BungeeCord
-Tools      Git · GitHub
-Natural    Portuguese (Native) · English (B2)
-</pre>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/profile-terminal.svg" alt="William Alexandre — terminal profile" width="100%">
+</p>
 
 ## Sobre
 
@@ -103,11 +67,6 @@ I am currently developing **Eteryun MMO**, an original project built with **Unit
 ![QA](https://img.shields.io/badge/QA-333333?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## Formação
-
-**Tecnologia em Análise e Desenvolvimento de Sistemas**  
-Universidade Cruzeiro do Sul · Conclusão prevista: **2026**
 
 ## Contato
 
