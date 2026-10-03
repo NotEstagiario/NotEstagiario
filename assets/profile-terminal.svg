@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+  <rect width="1200" height="470" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="468" rx="17" fill="none" stroke="#30363d"/>
+
+  <g font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#c9d1d9">
+    <text x="36" y="42" xml:space="preserve">
+      <tspan x="36" dy="0">                .-''''-.</tspan>
+      <tspan x="36" dy="20">             .-'   _    '-.</tspan>
+      <tspan x="36" dy="20">           .'    _/ \_     '.</tspan>
+      <tspan x="36" dy="20">          /   .-'     '-.     \</tspan>
+      <tspan x="36" dy="20">         /   /  _     _  \     \</tspan>
+      <tspan x="36" dy="20">        ;   |  / \___/ \  |     ;</tspan>
+      <tspan x="36" dy="20">        |   | (  o   o  ) |     |</tspan>
+      <tspan x="36" dy="20">        |   |  \  ___  /  |     |</tspan>
+      <tspan x="36" dy="20">        ;   |---\_____/---|     ;</tspan>
+      <tspan x="36" dy="20">         \   \   ___   /      /</tspan>
+      <tspan x="36" dy="20">          '.  '._   _.'     .'</tspan>
+      <tspan x="36" dy="20">            '-._ '-'   _.-'</tspan>
+      <tspan x="36" dy="20">                | |</tspan>
+      <tspan x="36" dy="20">             ___| |___</tspan>
+      <tspan x="36" dy="20">          .-'         '-.</tspan>
+      <tspan x="36" dy="20">         /               \</tspan>
+      <tspan x="36" dy="20">        /                 \</tspan>
+    </text>
+
+    <text x="470" y="48" font-size="22" font-weight="700" fill="#f0f6fc">william@NotEstagiario</text>
+    <text x="470" y="77" fill="#8b949e">────────────────────────────────────────────────────────────</text>
+
+    <text x="470" y="112" fill="#79c0ff">Role</text>
+    <text x="610" y="112">Software Developer | Game Developer</text>
+
+    <text x="470" y="142" fill="#79c0ff">Focus</text>
+    <text x="610" y="142">Game Development · Software Systems · Backend</text>
+
+    <text x="470" y="172" fill="#79c0ff">Project</text>
+    <text x="610" y="172">Eteryun MMO</text>
+
+    <text x="470" y="212" fill="#d2a8ff">Languages</text>
+    <text x="610" y="212">C# · C++ · Java · Python</text>
+
+    <text x="470" y="242" fill="#d2a8ff">GameDev</text>
+    <text x="610" y="242">Unity · Gameplay Systems · RPG · Balancing</text>
+
+    <text x="470" y="272" fill="#d2a8ff">Backend</text>
+    <text x="610" y="272">Client-Server · Server-Authoritative · Persistence</text>
+
+    <text x="470" y="302" fill="#d2a8ff">Database</text>
+    <text x="610" y="302">MySQL · MariaDB</text>
+
+    <text x="470" y="332" fill="#d2a8ff">Java/Game</text>
+    <text x="610" y="332">Paper · NeoForge · BungeeCord</text>
+
+    <text x="470" y="362" fill="#d2a8ff">Tools</text>
+    <text x="610" y="362">Git · GitHub</text>
+
+    <text x="470" y="402" fill="#ffa657">Natural</text>
+    <text x="610" y="402">Portuguese (Native) · English (B2)</text>
+
+    <text x="36" y="432" font-size="16" fill="#8b949e">WILLIAM ALEXANDRE</text>
+  </g>
+</svg>
