@@ -20,9 +20,10 @@
 William Alexandre
 ────────────────────────────────────────────────────────
 
+OS:                    Windows, Linux, MacOS
 Role:                  Software Developer | Game Developer
 Focus:                 Game Development, Systems, Backend
-Main Project:          Eteryun MMO
+Main Project:          Eteryun: Dawnbreath
 Engine:                Unity
 Architecture:          Client-Server, Server-Authoritative
 
@@ -38,12 +39,13 @@ Contact ────────────────────────
 
 Email:                 williamalexandre.contato@hotmail.com
 GitHub:                @NotEstagiario
+Discord:               NotFrozty
 Instagram:             @iamwillofficial
 X:                     @iamwill_of
 
 Status ─────────────────────────────────────────────────
 
-Eteryun MMO:           In development
+Eteryun: Dawnbreath:   In development
 </pre>
 
 </td>
