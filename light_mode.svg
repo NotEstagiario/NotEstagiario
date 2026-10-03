@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="14px">
 <style>
 @font-face {
   src: local('Consolas'), local('Consolas Bold');
@@ -8,66 +9,53 @@
   -webkit-size-adjust: 109%;
   size-adjust: 109%;
 }
-.key {fill: #953800;}
-.value {fill: #0a3069;}
-.cc {fill: #c2cfde;}
-.good {fill: #1a7f37;}
-.muted {fill: #57606a;}
-text, tspan {white-space: pre;}
+.key {fill:#953800;}
+.value {fill:#0a3069;}
+.cc {fill:#c2cfde;}
+.good {fill:#1a7f37;}
+text,tspan {white-space:pre;}
 </style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">            .:;*%@@@@@@%*;:.                 </tspan>
-<tspan x="15" y="50">         .+%@@@@@@@@@@@@@@@@%+.               </tspan>
-<tspan x="15" y="70">       .*@@@@@@@@@@@@@@@@@@@@@@*.             </tspan>
-<tspan x="15" y="90">      +@@@@@@@@@@%%%%%%@@@@@@@@@@+            </tspan>
-<tspan x="15" y="110">     %@@@@@@%*+=--------=+*%@@@@@@%           </tspan>
-<tspan x="15" y="130">    %@@@@@%=-:..        ..:-=%@@@@@%          </tspan>
-<tspan x="15" y="150">   #@@@@@*:      .::::.      :*@@@@@#         </tspan>
-<tspan x="15" y="170">  *@@@@@+     .+%@@@@@@%+.     +@@@@@*        </tspan>
-<tspan x="15" y="190"> .@@@@@%     *@@@%%%%%%@@@*     %@@@@@.       </tspan>
-<tspan x="15" y="210"> +@@@@@*    #@@%=      =%@@#    *@@@@@+       </tspan>
-<tspan x="15" y="230"> #@@@@@+   .@@#  .:  :. #@@.   +@@@@@#       </tspan>
-<tspan x="15" y="250"> %@@@@@=   +@@  (o)--(o) @@+   =@@@@@%       </tspan>
-<tspan x="15" y="270"> %@@@@@=   +@@.    __    .@@+   =@@@@@%       </tspan>
-<tspan x="15" y="290"> #@@@@@+    #@@=  ----  =@@#    +@@@@@#       </tspan>
-<tspan x="15" y="310"> +@@@@@*     %@@%+====+%@@%     *@@@@@+       </tspan>
-<tspan x="15" y="330"> .@@@@@%      +%@@@@@@@@%+      %@@@@@.       </tspan>
-<tspan x="15" y="350">  *@@@@@+       :+****+:       +@@@@@*        </tspan>
-<tspan x="15" y="370">   #@@@@@*:       ....       :*@@@@@#         </tspan>
-<tspan x="15" y="390">    %@@@@@%+=:..        ..:=+%@@@@@%          </tspan>
-<tspan x="15" y="410">     %@@@@@@@@%*+======+*%@@@@@@@@%           </tspan>
-<tspan x="15" y="430">      +@@@@@@@@@@@@@@@@@@@@@@@@@@+            </tspan>
-<tspan x="15" y="450">        *%@@@@@@@@@@@@@@@@@@@@%*              </tspan>
-<tspan x="15" y="470">           :+*%%@@@@@@@@%%*+:                 </tspan>
-<tspan x="15" y="490">                 ||  ||                      </tspan>
-<tspan x="15" y="510">              .==||==||==.                   </tspan>
-</text>
-<text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">william@NotEstagiario</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Software Developer | Game Developer</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Game Development, Systems, Backend</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Project</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Eteryun MMO</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Engine</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Unity</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Architecture</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Client-Server, Server-Authoritative</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">C#, C++, Java, Python</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Database</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">MySQL, MariaDB</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">GameServer</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Paper, NeoForge, BungeeCord</tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Portuguese, English B2</tspan>
-<tspan x="390" y="250" class="cc">. </tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Engineering</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">OOP, Debugging, QA</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Git, GitHub</tspan>
-<tspan x="390" y="310" class="cc">. </tspan>
-<tspan x="390" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">williamalexandre.contato@hotmail.com</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">@NotEstagiario</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">@iamwillofficial</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">@iamwill_of</tspan>
-<tspan x="390" y="430" class="cc">. </tspan>
-<tspan x="390" y="450">- GitHub</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Public Repositories</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">1</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Main Project</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Eteryun MMO</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .................... </tspan><tspan class="good">Building · Debugging · Shipping</tspan>
+<defs>
+  <clipPath id="avatarClip">
+    <rect x="20" y="20" width="330" height="330" rx="14" ry="14"/>
+  </clipPath>
+</defs>
+<rect width="985" height="530" fill="#f6f8fa" rx="15"/>
+<rect x="20" y="20" width="330" height="330" rx="14" fill="none" stroke="#d0d7de"/>
+<image x="20" y="20" width="330" height="330"
+       preserveAspectRatio="xMidYMid slice"
+       clip-path="url(#avatarClip)"
+       href="https://avatars.githubusercontent.com/u/66400251?s=680&amp;v=4"
+       xlink:href="https://avatars.githubusercontent.com/u/66400251?s=680&amp;v=4"/>
+<text x="185" y="385" text-anchor="middle" fill="#24292f" font-size="18">William Alexandre</text>
+<text x="185" y="410" text-anchor="middle" fill="#0a3069">@NotEstagiario</text>
+<text x="185" y="447" text-anchor="middle" fill="#c2cfde">Software Developer</text>
+<text x="185" y="469" text-anchor="middle" fill="#c2cfde">Game Developer</text>
+
+<text x="390" y="34" fill="#24292f">
+<tspan x="390" y="34">william@NotEstagiario</tspan>
+<tspan x="390" y="54" class="cc">──────────────────────────────────────────────────────────</tspan>
+
+<tspan x="390" y="84" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Software Developer | Game Developer</tspan>
+<tspan x="390" y="106" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Game Development, Systems, Backend</tspan>
+<tspan x="390" y="128" class="cc">. </tspan><tspan class="key">Project</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Eteryun MMO</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Engine</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Unity</tspan>
+<tspan x="390" y="172" class="cc">. </tspan><tspan class="key">Architecture</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Client-Server, Server-Authoritative</tspan>
+
+<tspan x="390" y="212" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">C#, C++, Java, Python</tspan>
+<tspan x="390" y="234" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Database</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">MySQL, MariaDB</tspan>
+<tspan x="390" y="256" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">GameServer</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Paper, NeoForge, BungeeCord</tspan>
+<tspan x="390" y="278" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Portuguese, English B2</tspan>
+<tspan x="390" y="300" class="cc">. </tspan><tspan class="key">Engineering</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">OOP, Debugging, QA</tspan>
+<tspan x="390" y="322" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Git, GitHub</tspan>
+
+<tspan x="390" y="362">- Contact</tspan><tspan class="cc"> ───────────────────────────────────────────────</tspan>
+<tspan x="390" y="384" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">williamalexandre.contato@hotmail.com</tspan>
+<tspan x="390" y="406" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">@NotEstagiario</tspan>
+<tspan x="390" y="428" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">@iamwillofficial</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">@iamwill_of</tspan>
+
+<tspan x="390" y="490">- Project Status</tspan><tspan class="cc"> ───────────────────────────────────────</tspan>
+<tspan x="390" y="512" class="cc">. </tspan><tspan class="key">Eteryun MMO</tspan>:<tspan class="cc"> ................ </tspan><tspan class="good">In development</tspan>
 </text>
 </svg>
