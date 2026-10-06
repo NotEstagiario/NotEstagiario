@@ -46,6 +46,7 @@ X:                     @iamwill_of
 Status ─────────────────────────────────────────────────
 
 Eteryun: Dawnbreath:   In development
+Ghost of Zankai:       In development
 </pre>
 
 </td>
